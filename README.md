@@ -1,6 +1,6 @@
-# Java_Weekly-Assesment_3...
+# Java_Week_3-Assesment
 
-```
+## Questions: 
 
 1.  A Java abstract class is a class that can't be instantiated. That means you cannot create new instances of an abstract class.
 It works as a base for subclasses. You should learn about Java Inheritance before attempting this challenge.
@@ -32,9 +32,6 @@ A tale of two cities
 Sample Output:
 The title is: A tale of two cities
 
-```
-
-```
 
 2.  A Java interface can only contain method signatures and fields. The interface can be used to achieve polymorphism. 
 In this problem, you will practice your knowledge on interfaces.
@@ -42,7 +39,8 @@ In this problem, you will practice your knowledge on interfaces.
 You are given an interface AdvancedArithmetic which contains a method signature int divisor_sum(int n). 
 You need to write a class called MyCalculator which implements the interface.
 
-divisorSum function just takes an integer as input and return the sum of all its divisors. For example divisors of 6 are 1, 2, 3 and 6, so divisor_sum should return 12. 
+divisorSum function just takes an integer as input and return the sum of all its divisors. 
+For example divisors of 6 are 1, 2, 3 and 6, so divisor_sum should return 12. 
 The value of n will be at most 1000.
 
 Read the partially completed code in the editor and complete it. You just need to write the MyCalculator class only. Your class shouldn't be public.
@@ -57,10 +55,7 @@ I implemented: AdvancedArithmetic
 Explanation:
 Divisors of 6 are 1,2,3 and 6. 1+2+3+6=12.
 
-```
 
-
-```
 
 3.When a subclass inherits from a superclass, it also inherits its methods; however, it can also override the superclass methods (as well as declare and implement new ones).
 
@@ -101,10 +96,7 @@ Each team has n players in Generic Sports
 Soccer Class
 Each team has 11 players in Soccer Class
 
-```
 
-
-```
 4.  Exception handling is the process of responding to the occurrence, during computation, of exceptions 
 – anomalous or exceptional conditions requiring special processing – often changing the normal flow of program execution. (Wikipedia)
 
@@ -151,5 +143,3 @@ Sample Input 3:
 Sample Output 3:
 
 java.util.InputMismatchException
-
-```
