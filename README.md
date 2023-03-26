@@ -2,7 +2,7 @@
 
 ## Questions: 
 
-1.  A Java abstract class is a class that can't be instantiated. That means you cannot create new instances of an abstract class.
+1. A Java abstract class is a class that can't be instantiated. That means you cannot create new instances of an abstract class.
 It works as a base for subclasses. You should learn about Java Inheritance before attempting this challenge.
 
 Following is an example of abstract class:
@@ -33,7 +33,7 @@ Sample Output:
 The title is: A tale of two cities
 
 
-2.  A Java interface can only contain method signatures and fields. The interface can be used to achieve polymorphism. 
+2. A Java interface can only contain method signatures and fields. The interface can be used to achieve polymorphism. 
 In this problem, you will practice your knowledge on interfaces.
 
 You are given an interface AdvancedArithmetic which contains a method signature int divisor_sum(int n). 
@@ -57,7 +57,7 @@ Divisors of 6 are 1,2,3 and 6. 1+2+3+6=12.
 
 
 
-3.When a subclass inherits from a superclass, it also inherits its methods; however, it can also override the superclass methods (as well as declare and implement new ones).
+3. When a subclass inherits from a superclass, it also inherits its methods; however, it can also override the superclass methods (as well as declare and implement new ones).
 
 Consider the following Sports class:
 
@@ -97,7 +97,7 @@ Soccer Class
 Each team has 11 players in Soccer Class
 
 
-4.  Exception handling is the process of responding to the occurrence, during computation, of exceptions 
+4. Exception handling is the process of responding to the occurrence, during computation, of exceptions 
 – anomalous or exceptional conditions requiring special processing – often changing the normal flow of program execution. (Wikipedia)
 
 Java has built-in mechanism to handle exceptions. Using the try statement we can test a block of code for errors. 
